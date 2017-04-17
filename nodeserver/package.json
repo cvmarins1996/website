@@ -1,0 +1,11 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Conectar com o server",
+  "main": "static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio",
+  "license": "ISC"
+}

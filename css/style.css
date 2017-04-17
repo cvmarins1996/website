@@ -121,19 +121,19 @@
 	/* Boxes */
 
 	#boxes{
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 
 	#boxes .box{
 		float: left;
 		text-align: center;
-		width:20%;
-		padding: 20px;
+		width:30%;
+		padding: 10px;
 	}
 
 
 	#boxes .box img{
-		width: 75px;
+		width: 65px;
 	}
 
 	/* Footer */

@@ -1,3 +1,3 @@
 # website
-Simple Website
-Uma pagian Web com CRUD feito em JavaScript
+# Simple Website
+Uma pagina Web com CRUD feito em JavaScript
